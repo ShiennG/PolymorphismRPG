@@ -30,7 +30,7 @@ namespace PolymorphismRPG
             Console.WriteLine();
             p2archer.SecondAttack(enemy);
             Console.WriteLine();
-            p3knight.PrimaryAttack(enemy);
+            p3knight.SecondAttack(enemy);
             Console.WriteLine("Knight doesnt have any skill yet so it uses Player class skills instead");
 
 
